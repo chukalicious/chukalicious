@@ -10,7 +10,7 @@
 ### About
 
 -  **Learning :** Full-Stack Web Development :zap: 
--  **Hobbies :** Music :headphones: Movies 🎥 TV 📺 Books 📗 Video Games 🎮
+-  **Hobbies :** Music :headphones: Movies 🎥 TV 📺 Books 📗 Video Games 🎮 Hiking 🥾
 
 -  **Email me :** [Katiuska Alicea](mailto:katiuskaalicea@gmail.com)
 
