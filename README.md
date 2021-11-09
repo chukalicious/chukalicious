@@ -9,7 +9,7 @@
 
 ### About
 
--  **Learning :** Full-Stack Web Development :zap: 
+-  **Learning :** Typescript and GraphQL :zap: 
 -  **Hobbies :** Music :headphones: Movies 🎥 TV 📺 Books 📗 Video Games 🎮 Hiking 🥾
 
 -  **Email me :** [Katiuska Alicea](mailto:katiuskaalicea@gmail.com)
