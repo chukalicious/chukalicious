@@ -14,7 +14,7 @@
 
 -  **Email me :** [Katiuska Alicea](mailto:katiuskaalicea@gmail.com)
 
-## 📫 How to else to reach me: 
+## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/katiuska-alicea-/) 
 ### Languages and Tools
 
