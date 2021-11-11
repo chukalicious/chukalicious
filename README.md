@@ -9,7 +9,7 @@
 
 ### About
 
--  **Learning :** Typescript and GraphQL :zap: 
+-  **Learning :** Typescript and MongoDB :zap: 
 -  **Hobbies :** Music :headphones: Movies 🎥 TV 📺 Books 📗 Video Games 🎮 Hiking 🥾
 
 -  **Email me :** [Katiuska Alicea](mailto:katiuskaalicea@gmail.com)
