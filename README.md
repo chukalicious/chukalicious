@@ -5,7 +5,7 @@
 
 ## About
 
-I’m a new software engineer with 20 years experience in client relations & operations that span from opportunities in academic institutions, to HR management and government agencies. I have a long trajectory of leveling up my skills and picking up new ones wherever I go because I’m curious and a lifelong learner. I like to teach too when I see others struggling. During my time at a higher learning institution I had the opportunity to create and provide training programs for coworkers for the use of digital tools, like excel worksheets and program management applications for senior teams. 
+I’m a new software developer with 20 years experience in client relations & operations that span from opportunities in academic institutions, to HR management and government agencies. I have a long trajectory of leveling up my skills and picking up new ones wherever I go because I’m curious and a lifelong learner. I like to teach too when I see others struggling. During my time at a higher learning institution I had the opportunity to create and provide training programs for coworkers for the use of digital tools, like excel worksheets and program management applications for senior teams. 
 
 I would love to connect with anyone who’s had a career change into tech, and also with those who believe developers like me have a lot to offer to their organization. 
 
